@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "Data Science Portfolio2."
+description              : "Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio2."
-  location         : "Philadelphia, PA"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -126,8 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url:  "github.com/mgldt"
-      # url: "https://github.com/"      
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "github.com/mgldt"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
