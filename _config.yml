@@ -109,7 +109,7 @@ author:
   name             : "Miguel DiTolla"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Industrial Engineer / Data Scientist"
-  location         : "Philadelphia, PA"
+  location         : "Philadelphia, PA."
   email            :
   links:
     - label: "/mditolla"
@@ -138,7 +138,7 @@ author:
 # Site Footer
 footer:
   links:
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mditolla"
     - label: "GitHub"
