@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Di Tolla"
-  avatar           : "/images/banner.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Industrial Engineer/Data Scientist"
   location         : "Philadelphia, PA."
   email            :
