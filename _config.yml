@@ -109,7 +109,7 @@ author:
   name             : "Miguel Di Tolla"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Industrial Engineer/Data Scientist"
-  location         : "Philadelphia, PA."
+  location         : "Philadelphia, PA"
   email            :
   links:
     - label: "/mditolla"
