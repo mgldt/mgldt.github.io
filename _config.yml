@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel DiTolla"
+title                    : "Miguel Di Tolla"
 title_separator          : "-"
-name                     : "Miguel DiTolla"
+name                     : "Miguel Di Tolla"
 description              : "Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Miguel DiTolla"
+  name             : "Miguel Di Tolla"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Industrial Engineer / Data Scientist"
+  bio              : "Industrial Engineer/Data Scientist"
   location         : "Philadelphia, PA."
   email            :
   links:
@@ -298,3 +298,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values: 
+      layout: single
+      author_profile: true
