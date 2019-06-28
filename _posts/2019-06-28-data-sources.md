@@ -7,25 +7,22 @@ header:
 excerpt: "Various data sources"
 ---
 
-# H1 heading
+### r/datasets/
 
-## H2
+[https://www.reddit.com/r/datasets/](reddit.com/r/datasets/)
 
-### H3
+### Data Is Plural
 
-*one asterix*
+[https://tinyletter.com/data-is-plural](tinyletter.com/data-is-plural)
 
-**two asterix for bold**
+### Data.gov
 
-bullet list:
-*one
-+dos
--drei
+[https://data.gov](data.gov)
 
-python
-```python
-  import numpy as np
-  def testf(x, y):
-    z = np.sum(x, y)
-    return z
-```
+### BuzzFeed News
+
+[https://github.com/BuzzFeedNews](github.com/BuzzFeedNews)
+
+### FiveThirstyEight
+
+[https://data.fivethirtyeight.com/](data.fivethirtyeight.com/}
