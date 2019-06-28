@@ -25,6 +25,6 @@ Collection of site with
 
 ### Storytelling with Data
 
-*[http://www.storytellingwithdata.com/swdchallenge](http://www.storytellingwithdata.com/swdchallenge)
+* [http://www.storytellingwithdata.com/swdchallenge](http://www.storytellingwithdata.com/swdchallenge)
 
 
