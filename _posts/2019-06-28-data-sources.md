@@ -42,7 +42,7 @@ excerpt: "Various data sources"
 [opendatanetwork.com/](https://opendatanetwork.com/)
 
 
-## Enigma Public Data
+### Enigma Public Data
 
 [public.enigma.com](https://public.enigma.com)
 
