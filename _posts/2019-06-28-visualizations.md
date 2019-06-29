@@ -26,6 +26,9 @@ Collection of sites with recommendations on visualization creation
 
 ### Storytelling with Data
 
-* [http://www.storytellingwithdata.com/swdchallenge](http://www.storytellingwithdata.com/swdchallenge)
+* [storytellingwithdata.com/swdchallenge](http://www.storytellingwithdata.com/swdchallenge)
 
 
+### An overview of color tools
+
+* [blog.datawrapper.de/colorguide/](https://blog.datawrapper.de/colorguide/)
