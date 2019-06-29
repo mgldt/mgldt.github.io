@@ -3,7 +3,7 @@ title: "Visualizations"
 date: 2019-06-28
 tags: [inspiration, data viz, visualizations, resources]
 header:
-  image: "/images/mondrian-banner.jpg"
+  image: "/images/mondrian-banner1.jpg"
 excerpt: "Interesting Visualizations"
 ---
 
