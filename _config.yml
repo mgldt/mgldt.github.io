@@ -108,15 +108,15 @@ analytics:
 author:
   name             : "Miguel Di Tolla"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst\n\ Data Science Graduate student at Northwestern University"
+  bio              : "Data Science Graduate Student at Northwestern University"
   location         : "Philadelphia, PA"
   email            :
   links:
     - label: "/mditolla"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mditolla"
     - label: "/mgldt"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-github"
       url:  "https://github.com/mgldt"
     
     #- label: "Email"
