@@ -108,9 +108,7 @@ analytics:
 author:
   name             : "Miguel Di Tolla"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : > 
-                      Data Analyst
-                      Data Science Graduate student at Northwestern University
+  bio              : "Data Analyst\n\ Data Science Graduate student at Northwestern University"
   location         : "Philadelphia, PA"
   email            :
   links:
