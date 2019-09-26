@@ -32,3 +32,14 @@ Collection of sites with recommendations on visualization creation
 ### An overview of color tools
 
 * [blog.datawrapper.de/colorguide/](https://blog.datawrapper.de/colorguide/)
+
+
+### Visualization Society
+
+* [datavisualizationsociety.com/challenge](https://www.datavisualizationsociety.com/challenge)
+
+
+### Data For A Cause
+
+* [olgatsubiks.com/data-for-a-cause](https://www.olgatsubiks.com/data-for-a-cause)
+
