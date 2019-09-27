@@ -78,6 +78,12 @@ Collection of datasets, links, and resources.
 * [opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)
 
 
+### Open Data Philly
+OpenDataPhilly is a catalog of open data in the Philadelphia region. In addition to being the official open data repository for the City, it includes data sets from many organizations in the region.
+
+* [opendataphilly.org](https://www.opendataphilly.org/)
+
+
 ### Data.Gov.UK
 
 * [https://data.gov.uk/](https://data.gov.uk/)
