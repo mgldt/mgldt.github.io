@@ -113,12 +113,12 @@ author:
   email            :
   links:
     - label: "/mditolla"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/mditolla"
     - label: "/mgldt"
-      icon: "fas fa-fw fa-github"
+      icon: "fab fa-github"
       url:  "https://github.com/mgldt"
-    - label: "Twitter"
+    - label: "@mgldt_ds"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mgldt_ds"
     
