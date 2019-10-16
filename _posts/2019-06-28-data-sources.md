@@ -1,7 +1,7 @@
 ---
 title: "Data Sources"
 date: 2019-06-28
-tags: [data sources, sources]
+tags: [data sources, resources]
 header:
   image: "/images/banner.jpg"
 excerpt: "Various data sources"
