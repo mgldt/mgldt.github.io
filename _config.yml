@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Di Tolla"
+title                    : "Data Science Portfolio - Miguel Di Tolla"
 title_separator          : "-"
 name                     : "Miguel Di Tolla"
 description              : "Data Science Portfolio."
@@ -148,9 +148,6 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mgldt_ds"
       
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  # url:
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
     #  #url:  
