@@ -115,7 +115,7 @@ author:
     - label: "/mditolla"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mditolla"
-    - label: " /mgldt_"
+    - label: "/mgldt"
       icon: "fab fa-github"
       url:  "https://github.com/mgldt"
     - label: "@mgldt_ds"
