@@ -17,9 +17,14 @@ excerpt: "Various data sources"
 * [tinyletter.com/data-is-plural](https://tinyletter.com/data-is-plural)
 
 
-### Data.gov
+### Data.gov (USA)
 
 * [data.gov](https://data.gov)
+
+
+### Data.Gov.UK
+
+* [data.gov.uk/](https://data.gov.uk/)
 
 
 ### European Data Portal
@@ -59,7 +64,7 @@ excerpt: "Various data sources"
 
 ### Kaggle Datasets
 
-* [www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+* [kaggle.com/datasets](https://www.kaggle.com/datasets)
 
 
 ### ProPublica Data Store
@@ -70,7 +75,7 @@ excerpt: "Various data sources"
 ### Tidy Tuesday Project
 Collection of datasets, links, and resources.
 
-* [https://github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
+* [github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
 
 
 ### NYC Open Data
@@ -82,10 +87,5 @@ Collection of datasets, links, and resources.
 OpenDataPhilly is a catalog of open data in the Philadelphia region. In addition to being the official open data repository for the City, it includes data sets from many organizations in the region.
 
 * [opendataphilly.org](https://www.opendataphilly.org/)
-
-
-### Data.Gov.UK
-
-* [https://data.gov.uk/](https://data.gov.uk/)
 
 
