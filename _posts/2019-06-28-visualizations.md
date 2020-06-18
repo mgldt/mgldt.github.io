@@ -34,6 +34,16 @@ Collection of sites with recommendations on visualization creation
 * [blog.datawrapper.de/colorguide/](https://blog.datawrapper.de/colorguide/)
 
 
+### Coolors
+
+* [coolors.co/](https://coolors.co/)
+
+
+### Paletton
+
+* [paletton.com/](https://paletton.com/)
+
+
 ### Visualization Society
 
 * [datavisualizationsociety.com/challenge](https://www.datavisualizationsociety.com/challenge)
