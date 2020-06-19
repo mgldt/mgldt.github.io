@@ -5,7 +5,7 @@ layout: tag
 taxonomy: resources
 entries_layout: grid
 header:
-  image: "/images/banner.jpg"
+  image:
 ---
 
 
