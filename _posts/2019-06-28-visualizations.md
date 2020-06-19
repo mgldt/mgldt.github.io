@@ -3,8 +3,8 @@ title: "Visualizations"
 date: 2019-06-28
 tags: [inspiration, data viz, visualizations, resources]
 header:
-  image: "/images/mondrian-banner1.jpg"
-excerpt: "Interesting Visualizations"
+  image: 
+excerpt: "Collection of resources with viz inspirations"
 ---
 
 Collection of sites with recommendations on visualization creation
@@ -21,7 +21,7 @@ Collection of sites with recommendations on visualization creation
 
 ### MakeoverMonday
 
-* [Collection of articles with bad visualizations, and the data sets to **attempt** at creating better ones](https://www.makeovermonday.co.uk/data/)
+* [Collection of articles with bad visualizations, and source data sets to **attempt** at creating better ones](https://www.makeovermonday.co.uk/data/)
 
 
 ### Storytelling with Data
