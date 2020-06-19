@@ -16,8 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Portfolio - Miguel Di Tolla"
+title                    : "Miguel Di Tolla"
 title_separator          : "-"
+subtitle                 : "Data Science Portfolio"
 name                     : "Miguel Di Tolla"
 description              : "Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -64,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : # true , false (default)
+search_full_content      : # true , false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
