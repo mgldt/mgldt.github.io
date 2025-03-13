@@ -120,7 +120,7 @@ author:
       icon: "fab fa-github"
       url:  "https://github.com/mgldt"
     - label: "@mgldt.xyz"
-      icon: "fab fa-square-bluesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/mgldt.xyz"
     - label: "@mgldt_ds"
       icon: "fab fa-fw fa-twitter-square"
